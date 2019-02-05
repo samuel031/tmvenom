@@ -4,7 +4,9 @@ clear
 
 setterm -foreground cyan
 figlet Cesar Hack
+figlet DeadLikado
 setterm -foreground blue
+	echo 'Master Hack DeadLikado'
 	echo '======Cesar=Hacker=The=Gray================='
 apt update
 apt upgrade
@@ -23,7 +25,7 @@ pip install requests
 pip2 install requests
 pip install colorama
 pip2 install colorama
-figlet -f shadow  CesaR HackeR
+figlet -f shadow  deadLikado
 setterm -foreground cyan
 	echo "          Listoo!! ejecutamos tmvenom"
 setterm -foreground green	
